@@ -1,4 +1,5 @@
 ## 1. What is PostgreSQL?
+
 PostgreSQL একটি শক্তিশালী, ওপেন-সোর্স অবজেক্ট-রিলেশনাল ডাটাবেস ম্যানেজমেন্ট সিস্টেম। এটি ডেটা সংরক্ষণ, পরিচালনা এবং বিশ্লেষণের জন্য ব্যবহৃত হয়।
 
 ## 2. What is the purpose of a database schema in PostgreSQL?
